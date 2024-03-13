@@ -1,1 +1,58 @@
+.title {
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+.table {
+    margin: auto;
+    width: 50%;
+    margin-top: 25px;
+}
+.body {
+    background-color: #966111;
+    
+}
+.iced {
+    color: white;
+}
+.hot {
+    color: white;
+}
+.tr1 {
+    color: white;
+}
+.tr2 {
+    color: white;
+}
+.tr3 {
+    color: white;
+}
+.tr4 {
+    color: white;
+}
+.tr5 {
+    color: white;
+}
+.Toast {
+    color: white;
+}
+.tr6 {
+    color: white;
+}
+.tr7 {
+    color: white;
+}
+.tr8 {
+    color: white;
+}
+.tr9 {
+    color: white;
+}
+.tr10 {
+    color: white;
+}
 
+.icon{
+    font-size: 100px;
+    margin: auto;
+}
